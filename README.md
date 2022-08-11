@@ -2,6 +2,9 @@
 
 Estou iniciando minha carreira na área de desenvolvimento web e estou à procura do meu primeiro emprego na área. 
 Atualmente estou participando do Biopark Connect - Curso de Formação de Programadores.
+
+Conhecimento em HTML, CSS, JavaScript e C.
+Tenho interesse em aprender React e Angular.
 <!--
 
 <div style="display: inline_block"><br>
